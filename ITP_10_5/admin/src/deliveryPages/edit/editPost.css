@@ -1,0 +1,19 @@
+.addDeliveryBtn {
+  background-color: #28a745;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 150px;
+  margin-left: 90px;
+}
+
+.addDeliveryBtn:hover{
+  background-color: #ffffff;
+  color: black;
+  border: solid #28a745;
+}
+

@@ -1,0 +1,46 @@
+#Email{
+    width: 55px;
+    height: 35px;
+}
+
+/* Styles for the table */
+.list-table {
+    width: 1200px; /* Adjust width of the table */
+    margin: 0 auto; /* Center the table */
+    border-collapse: collapse;
+    font-size: 16px; /* Adjust font size */
+  }
+  
+  /* Table header styling */
+  .list-table th {
+    padding: 10px;
+    background-color: #f2f2f2;
+    text-align: left;
+    font-size: 18px; /* Adjust font size for the header */
+  }
+  
+  /* Table body styling */
+  .list-table td {
+    padding: 10px;
+    border: 1px solid #ddd; /* Add border to cells */
+    text-align: left;
+    font-size: 16px; /* Adjust font size for the cells */
+  }
+  
+  /* Adjust table row height */
+  .list-table tr {
+    height: 50px; /* Adjust row height */
+  }
+  
+  /* Additional styling for actions and email icons */
+  .list-table .actions img,
+  .list-table .Email img {
+    width: 24px; /* Adjust icon size */
+    height: 24px;
+  }
+  
+  /* Add hover effect for better user experience */
+  .list-table tr:hover {
+    background-color: #f1f1f1; /* Change background color on hover */
+  }
+  
