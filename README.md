@@ -71,7 +71,7 @@ Follow these steps to set up and run the project locally:
 
 Clone the Repository
 
-https://github.com/JayangaPabasara/Local_Food_Management_System.git
+https://github.com/VimukthiKolitha/Local-food-management-system.git
 cd your-repo-name
 Install Dependencies
 
